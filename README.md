@@ -1,1 +1,0 @@
-# nextJS_project1
